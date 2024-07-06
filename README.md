@@ -17,6 +17,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 PlsNeedRating is a web application that allows users to view recent contests on Codeforces, select a contest to display the top rankings, and search for a specific username. Users can view their own performance and others’ performance in the contests.
 
+### Built With
+- [Next.js](https://nextjs.org/)
+
 ## Features
 
 ### View and select recent contests
