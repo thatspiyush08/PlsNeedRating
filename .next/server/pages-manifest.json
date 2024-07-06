@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/get-rating-change": "pages/api/get-rating-change.js",
+  "/api/get-list-contest": "pages/api/get-list-contest.js",
+  "/api/calculate-ratings": "pages/api/calculate-ratings.js",
+  "/api/search-friend": "pages/api/search-friend.js",
+  "/api/get-top10-standing": "pages/api/get-top10-standing.js",
+  "/_document": "pages/_document.js"
+}
