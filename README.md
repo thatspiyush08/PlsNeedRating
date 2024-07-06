@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-  - [View and select recent contests](#view-and-select-recent-contests)
+  - [View and select recent contests](#view-and-select-recent-contests)a
   - [Top Rankings](#top-rankings)
   - [Username Search](#username-search)
   - [Participant Details](#participant-details)
