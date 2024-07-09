@@ -1,11 +1,11 @@
 
-# PlsNeedRating
+# Rankenstein
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-  - [View and select recent contests](#view-and-select-recent-contests)a
+  - [View and select recent contests](#view-and-select-recent-contests)
   - [Top Rankings](#top-rankings)
   - [Username Search](#username-search)
   - [Participant Details](#participant-details)
